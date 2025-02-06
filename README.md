@@ -42,7 +42,7 @@ Sauce Demo Web Automation Testing With Selenium Java Cucumber
 * Run all test (current file)
 * After all tests are complete, run this command to generate result
 ```
-mvn ferivy -DskipTests
+mvn verify -DskipTests
 ```
 * Open folder target/cucumber-report-html
 * Open file feature-overview.html in Browser
